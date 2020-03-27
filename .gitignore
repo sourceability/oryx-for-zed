@@ -1,0 +1,41 @@
+# IDEs
+/.idea
+/.project
+/nbproject
+/.buildpath
+/.settings
+/.docker-sync
+*.sublime-*
+*.AppleDouble
+*.AppleDB
+*.AppleDesktop
+Temporary Items
+.apdisk
+.tmp
+GPATH
+GRTAGS
+GTAGS
+
+# OS
+.DS_Store
+
+# node
+/node_modules/
+yarn-error.log
+/.yarn
+/.yarnrc
+
+# vagrant stuff
+.vagrant
+Vagrantfile
+
+# profiling
+/profiler
+
+# logs
+*.log
+npm-debug.log
+
+# environment
+.env
+.git
